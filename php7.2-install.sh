@@ -40,6 +40,6 @@ FLUSH PRIVILEGES;
 MYSQL_SCRIPT
 
 echo "Here is the database"
-echo "Database:   $USERNAME"
-echo "Username:   $USERNAME"
+echo "Database:   echopapa
+echo "Username:   echopapa
 echo "Password:   $PASS"
